@@ -16,8 +16,8 @@ crons = ["* * * * *"]
 
 [[d1_databases]]
 binding = "DB"
-database_name = "xugou_db"
-database_id = "32a2ca5f-3a77-4b08-965e-804612557880"
+database_name = "stat"
+database_id = "6af3508f-6ec5-46b5-a1b2-3537ceb0f5e4"
 
 [build]
 command = "npm run build"
